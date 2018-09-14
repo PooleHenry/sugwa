@@ -210,6 +210,7 @@ body #footer ul li.active {
   line-height: 60px;
   text-align: center;
   position: relative;
+  background:url(images/clock.ico); 
 }
 #seconds::after {
   content: '';
